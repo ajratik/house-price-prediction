@@ -1,4 +1,5 @@
 # house-price-prediction
+DataSet: https://www.kaggle.com/competitions/prediction-interval-competition-ii-house-price/data
 Notebook with linear regression (+Ridge) for house price prediction (in King County)
 Project includes:
 1. Simple EDA

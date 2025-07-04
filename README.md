@@ -5,3 +5,5 @@ Project includes:
 2. Feature ingeneering
 3. Linear Regression evaluation
 4. Ridge LR evaluation
+5. Linear regression methods results
+6. Full project presentation
